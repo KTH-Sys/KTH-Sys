@@ -1,6 +1,7 @@
 # Hi, I’m Eric (Kyaw Thi Ha) 👋
 
 💫 **About Me**  
+
 I’m a Computer Science student at **UC Davis** (with a Math minor), passionate about software engineering, AI/ML, and building tools that bridge theory with real-world use.  
 
 ---
