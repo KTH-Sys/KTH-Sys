@@ -1,4 +1,4 @@
-# Hi, I’m Eric (Kyaw Thi Ha) 👋
+# Hi, I’m Kyaw Thi (Eric) Ha 👋
 
 💫 **About Me**  
 
