@@ -16,7 +16,7 @@ I’m a Computer Science student at **UC Davis** (with a Math minor), passionate
 🌐 **Connect with Me**  
 - [LinkedIn](https://linkedin.com/in/kth10)  
 - [GitHub](https://github.com/KTH-Sys)  
-- [Portfolio]([https://kyawthi-eric-ha.replit.app/](https://kth-sys.github.io/portfolio_website/))  
+- [Portfolio](https://kth-sys.github.io/portfolio_website)  
 
 ---
 
