@@ -23,7 +23,9 @@ Building at the intersection of backend systems and applied ML.
 
 💻 **Tech Stack**  
 
-[![My Skills](https://skillicons.dev/icons?i=java, python, golang, cpp, js, html, css, react, nodejs, spring, fastapi, flask, postgres, mongodb, docker, git, linux, vscode, pytorch, sklearn)](https://skillicons.dev)
+## 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,golang,cpp,js,html,css,react,nodejs,spring,fastapi,flask,postgres,mongodb,docker,git,linux,vscode,pytorch)](https://skillicons.dev)
 
 ---
 
