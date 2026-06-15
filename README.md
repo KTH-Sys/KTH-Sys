@@ -21,13 +21,6 @@ Building at the intersection of backend systems and applied ML.
 
 ---
 
-💻 **Tech Stack**  
-
 ## 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,golang,cpp,js,html,css,react,nodejs,spring,fastapi,flask,postgres,mongodb,docker,git,linux,vscode,pytorch)](https://skillicons.dev)
-
----
-
-⚡ **Current Goal**  
-Sharpening my DSA + system design skills while building a portfolio of projects that showcase both **backend engineering** and **AI/ML applications**.  
