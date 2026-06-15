@@ -2,14 +2,15 @@
 
 💫 **About Me**  
 
-I’m a Computer Science student at **UC Davis** (with a Math minor), passionate about software engineering, AI/ML, and building tools that bridge theory with real-world use.  
+CS + Math @ UC Davis · AI/ML Fellow @ Break Through Tech (Cornell Tech) · SWE
+Building at the intersection of backend systems and applied ML.
 
 ---
 
 🎓 **Beyond Code**  
+- AI/ML Fellow @ Break Through Tech (Cornell Tech)
 - AvenueE Scholar @ UC Davis (engineering transfer success program)  
 - Founder & President, Burmese Students’ Society (BSS)  
-- Documenting my learning journey + projects on GitHub  
 
 ---
 
@@ -21,9 +22,8 @@ I’m a Computer Science student at **UC Davis** (with a Math minor), passionate
 ---
 
 💻 **Tech Stack**  
-**Languages:** Python · C++ · Java · SQL · HTML5 · CSS · JavaScript  
-**Tools:** Git/GitHub · Linux CLI · VS Code · SQLite · Postman  
-**Libraries/Frameworks:** ReactJS · Flask · NodeJS · OpenCV · TensorFlow (beginner)  
+
+[![My Skills](https://skillicons.dev/icons?i=java, python, golang, cpp, js, html, css, react, nodejs, spring, fastapi, flask, postgres, mongodb, docker, git, linux, vscode, pytorch, sklearn)](https://skillicons.dev)
 
 ---
 
