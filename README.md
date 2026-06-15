@@ -2,7 +2,7 @@
 
 💫 **About Me**  
 
-CS + Math @ UC Davis · AI/ML Fellow @ Break Through Tech (Cornell Tech) · SWE
+CS + Math @ UC Davis · AI/ML Fellow @ Break Through Tech (Cornell Tech) · SWE  
 Building at the intersection of backend systems and applied ML.
 
 ---
