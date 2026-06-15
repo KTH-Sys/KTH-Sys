@@ -24,3 +24,11 @@ Building at the intersection of backend systems and applied ML.
 ## 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,golang,cpp,js,html,css,react,nodejs,spring,fastapi,flask,postgres,mongodb,docker,git,linux,vscode,pytorch)](https://skillicons.dev)
+
+## 📊 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KTH-Sys/KTH-Sys/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KTH-Sys/KTH-Sys/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/KTH-Sys/KTH-Sys/output/github-contribution-grid-snake.svg">
+</picture>
