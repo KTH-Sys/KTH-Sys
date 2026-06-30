@@ -9,8 +9,9 @@ Building at the intersection of backend systems and applied ML.
 
 🎓 **Beyond Code**  
 - AI/ML Fellow @ Break Through Tech (Cornell Tech)
-- AvenueE Scholar @ UC Davis (engineering transfer success program)  
-- Founder & President, Burmese Students’ Society (BSS)  
+- AvenueE Scholar @ UC Davis
+- Teah Lead @ Machine Learning Student Network
+- Founder & President, Burmese Students’ Society (BSS)
 
 ---
 
